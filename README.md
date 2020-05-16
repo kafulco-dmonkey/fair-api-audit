@@ -1,4 +1,4 @@
-# fAIR API Audit
+# fAIr API Audit
 
 This is a prototype for an AI model API bias assessment audit. This project is developed by Fair AI Certified.
 
